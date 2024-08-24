@@ -1,3 +1,4 @@
 print('hello')
-//https
-//ssh
+#https
+#ssh
+#After device format
