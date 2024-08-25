@@ -1,6 +1,5 @@
 a = 5
 
-
 print('hello')
 print('hello')
 print('hello')
